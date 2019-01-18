@@ -52,8 +52,12 @@
            
             php_view_chrome.crx         
                         
+  - [广告拦截](#广告拦截)  广告拦截
+
+       - 01_Adblock_Plus_Chrome.crx
+       - 02_AdBlock_Chrome.crx
+       
   - [manifest.json](#manifest)  自定义插件语法
-  
   - [README.md](#README)  说明
  
              
