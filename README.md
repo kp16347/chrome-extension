@@ -23,41 +23,41 @@
 ### Main
     
 - [chrome-extension]
-  - [javascript](#javascript) JavaScript extension 
-    - [job-manage](#job-manage) 脚本管理
+  - [javascript](/javascript) JavaScript extension 
+    - [job-manage](/job-manage) 脚本管理
             
             tampermonkey.crx    油猴
             
-    - [js-from](#js-from) 自定义js插件
+    - [js-from](/js-from) 自定义js插件
         
             one.js              主要功能
         
-  - [php](#php) php extension
+  - [php](/php) php extension
   
-    - [php-logger](#php-logger)   PHP 打印在 chrome console 中    
+    - [php-logger](/php-logger)   PHP 打印在 chrome console 中    
         
             chrome_php.php          主要文件
             chrome_php_logger.crx   
             example.php             示例
             
-    - [php-offline-manual](#php-offline-manual)     php快捷手册
+    - [php-offline-manual](/php-offline-manual)     php快捷手册
 
             php_offline_manual.crx   
             
-    - [php-shell-chrome](#php-shell-chrome)   在 chrome console 中,编写 PHP代码 
+    - [php-shell-chrome](/php-shell-chrome)   在 chrome console 中,编写 PHP代码 
      
             php_shell_chrome.crx         
             
-    - [php-view-chrome](#php-view-chrome)   php print_r 页面打印优化
+    - [php-view-chrome](/php-view-chrome)   php print_r 页面打印优化
            
             php_view_chrome.crx         
                         
-  - [广告拦截](#广告拦截)  广告拦截
+  - [广告拦截](/广告拦截)  广告拦截
 
        - 01_Adblock_Plus_Chrome.crx
        - 02_AdBlock_Chrome.crx
        
   - [manifest.json](/manifest.json)  自定义插件语法
-  - [README.md](#README)  说明
+  - [README.md](/README)  说明
  
              
