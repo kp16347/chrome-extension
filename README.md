@@ -57,7 +57,7 @@
        - 01_Adblock_Plus_Chrome.crx
        - 02_AdBlock_Chrome.crx
        
-  - [manifest.json](/blob/master/manifest.json)  自定义插件语法
+  - [manifest.json](/manifest.json)  自定义插件语法
   - [README.md](#README)  说明
  
              
