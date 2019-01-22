@@ -57,6 +57,7 @@
        - 01_Adblock_Plus_Chrome.crx
        - 02_AdBlock_Chrome.crx
        
+  - [推荐](/推荐)  常用插件推荐[name_备注.crx]
   - [manifest.json](/manifest.json)  自定义插件语法
   - [README.md](/README)  说明
  
