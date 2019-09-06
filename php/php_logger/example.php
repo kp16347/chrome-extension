@@ -1,5 +1,5 @@
 <?php
-return 'chrome_php.php';
+include_once 'chrome_php.php';
 
 //this data will output in the chrome console
 //this code can't stop php
